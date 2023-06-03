@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "address": "UK",
+      "status": "Active",
+      "tech": {
+        "name": "javascript"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "email": "Shanna@melissa.tv",
+      "phone": "010-692-6593 x09125",
+      "address": "USA",
+      "status": "Inactive",
+      "tech": {
+        "name": "java"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clemen Bauch",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447",
+      "address": "Italy",
+      "status": "Active",
+      "tech": {
+        "name": "python"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "493-170-9623 x156",
+      "address": "India",
+      "status": "Inactive",
+      "tech": {
+        "name": "go"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "(254)954-1289",
+      "address": "New Zelandad",
+      "status": "Active",
+      "tech": {
+        "name": ".net"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "1-477-935-8478 x6430",
+      "address": "USA",
+      "status": "Inactive",
+      "tech": {
+        "name": "c++"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "210.067.6132",
+      "address": "Finland",
+      "status": "Active",
+      "tech": {
+        "name": "react"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "phone": "586.493.6943 x140",
+      "address": "India",
+      "status": "Inactive",
+      "tech": {
+        "name": "typescript"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "email": "Chaim_McDermott@dana.io",
+      "phone": "(775)976-6794 x41206",
+      "address": "US",
+      "status": "Active",
+      "tech": {
+        "name": "vuejs"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "email": "Rey.Padberg@karina.biz",
+      "phone": "024-648-3804",
+      "address": "US",
+      "status": "Active",
+      "tech": {
+        "name": "dark"
+      }
+    }
+  ]
+}

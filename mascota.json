@@ -1,0 +1,124 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "nombre": "Motta",
+      "apellido": "Cardenas",
+      "sexo": "Femenino",
+      "especie": "Perro",
+      "raza": "Poodle toy",
+      "fecha": "2017-05-14",
+      "usuario": "Junior",
+      "email": "junior@tecsup.com",
+      "dni": "41537896"
+    },
+    {
+      "id": 2,
+      "nombre": "Rabito",
+      "apellido": "Diaz",
+      "sexo": "Masculino",
+      "especie": "Gato",
+      "raza": "Angora",
+      "fecha": "2019-08-17",
+      "usuario": "Yuvixa",
+      "email": "alelo@hotmail.com",
+      "dni": "44637845"
+    },
+    {
+      "id": 3,
+      "nombre": "Pelucha",
+      "apellido": "Trujillo",
+      "sexo": "Femenino",
+      "especie": "Conejo",
+      "raza": "Lop",
+      "fecha": "2016-07-22",
+      "usuario": "Victoria",
+      "email": "soltra@tecsup.com",
+      "dni": "40101234"
+    },
+    {
+      "id": 4,
+      "nombre": "Max",
+      "apellido": "Olmedo",
+      "sexo": "Masculino",
+      "especie": "Perro",
+      "raza": "Poodle toy",
+      "fecha": "2010-04-10",
+      "usuario": "Max",
+      "email": "carmip@hotmail.com",
+      "dni": "44803456"
+    },
+    {
+      "id": 5,
+      "nombre": "Argan",
+      "apellido": "Nortier",
+      "sexo": "Femenino",
+      "especie": "Perro",
+      "raza": "Bichón Frisé",
+      "fecha": "2022-03-17",
+      "usuario": "Delia",
+      "email": "delita@gmail.com",
+      "dni": "44803456"
+    },
+    {
+      "id": 6,
+      "nombre": "Nieve",
+      "apellido": "Palacios",
+      "sexo": "Femenino",
+      "especie": "Conejo",
+      "raza": "Lop",
+      "fecha": "2013-02-16",
+      "usuario": "Lilian",
+      "email": "lpn@hotmail.com",
+      "dni": "49853421"
+    },
+    {
+      "id": 7,
+      "nombre": "Firulais",
+      "apellido": "Camiña",
+      "sexo": "Masculino",
+      "especie": "Perro",
+      "raza": "Rottweiler",
+      "fecha": "2014-04-13",
+      "usuario": "Zoila",
+      "email": "garios@gmail.com",
+      "dni": "44803432"
+    },
+    {
+      "id": 8,
+      "nombre": "Volt",
+      "apellido": "Cardenas",
+      "sexo": "Masculino",
+      "especie": "Perro",
+      "raza": "Poodle toy",
+      "fecha": "2015-06-12",
+      "usuario": "Hernan",
+      "email": "hcbjl@hotmail.com",
+      "dni": "47803442"
+    },
+    {
+      "id": 9,
+      "nombre": "Bobby",
+      "apellido": "Villavicencio",
+      "sexo": "Masculino",
+      "especie": "Perro",
+      "raza": "Poodle toy",
+      "fecha": "2016-05-12",
+      "usuario": "Maximo",
+      "email": "maxinum@gmail.com",
+      "dni": "42303486"
+    },
+    {
+      "id": 10,
+      "nombre": "Comotu",
+      "apellido": "Camilla",
+      "sexo": "Masculino",
+      "especie": "Perro",
+      "raza": "Poodle toy",
+      "fecha": "2020-01-12",
+      "usuario": "Elena",
+      "email": "feisbus@hotmail.com",
+      "dni": "44803456"
+    }
+  ]
+}

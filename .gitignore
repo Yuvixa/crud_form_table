@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Libreiras instaladas comandos
+- npm install json-server
+# para ejecutar el servidor en vite
+- npm run json-server --watch db.json --port 5000
+# Libreias agregadas
+- npm i bootstrap reactstrap axios
+- npm i react-router-dom sweetalert2 sweetalert2-react-content @fortawesome/fontawesome-free
